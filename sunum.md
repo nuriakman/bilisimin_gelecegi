@@ -1,12 +1,12 @@
 # Bilişimin Gelecekteki Yeri
 
-**Hakkımızda:**
+## Hakkımızda
 
 - 1988'den beri yazımı geliştiriyorum
 - Full-stack çalışanım. Web Developer olarak çalışıyorum
 - Hayatboyu öğrenme, öğrendiğim diller: basic, cobol, pascal, dbase, clipper, foxpro, visual foxpro, access, asp, php, python, c++, JavaScript, nodeJS
 
-**Bilişimin gelecekteki yeri:**
+## Bilişimin gelecekteki yeri
 
 | **Konu**                                      | **Açıklama**                                                                          |
 | --------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@
 | Gelecekte Bilişim ve İş Gücü                  | Geleceğin iş gücü becerileri, bilişim sektöründeki meslekler ve kariyer fırsatları    |
 | Sürdürülebilir Bilişim ve Çevresel Etkiler    | Çevre dostu teknolojiler, bilişimin sürdürülebilirliği ve enerji tüketimi             |
 
-**Bilişim Konusunda Bazı Terimler:**
+## Bilişim Konusunda Bazı Terimler
 
 | **Terim**         | **Tanımı**                                                                                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@
 | Uygulama Yazılımı | Belirli bir görevi yerine getirmek için tasarlanmış yazılımlardır. Örneğin, Microsoft Office, tarayıcılar, medya oynatıcılar ve oyunlar                                                           |
 | Programlama Dili  | Programlama Dili, yazılımların geliştirilmesi için kullanılan, insanlar tarafından anlaşılabilir komutların bilgisayar tarafından yürütülebilir hale getirilmesini sağlayan dillerin genel adıdır |
 
-**Bilgisayar Tarihi:**
+## Bilgisayar Tarihi
 
 | **Yıl** | **Etkinlik**                                   |
 | ------- | ---------------------------------------------- |
@@ -58,7 +58,7 @@
 | 1991    | Linus Torvalds Linux'u duyurdu                 |
 | 1993    | Marc Andreessen Mosaic Web Tarayıcısı          |
 
-**Web Tarayıcıları Tarihi:**
+## Web Tarayıcıları Tarihi
 
 | **Yıl** | **Tarayıcı**                       | **Açıklama**                                                                           |
 | ------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
@@ -71,7 +71,7 @@
 | 2008    | **Google Chrome**                  | Google tarafından geliştirilen ve hızlı performansıyla dikkat çeken tarayıcı.          |
 | 2015    | **Microsoft Edge**                 | Internet Explorer'ın yerini alan ve Windows 10 ile birlikte sunulan tarayıcı.          |
 
-**CPU'lardaki Transistör Adetleri:**
+## CPU'lardaki Transistör Adetleri
 
 | **Yıl** | **Transistör Sayısı** | **Mikroişlemci**              |
 | ------- | --------------------: | ----------------------------- |
@@ -89,7 +89,7 @@
 | 2017    |   ~2,300,000,000 Adet | Intel Core i9-7980XE          |
 | 2021    |  ~19,000,000,000 Adet | Intel Core i9-12900K          |
 
-**Süper Bilgisayarların İşlem Gücü:**
+## Süper Bilgisayarların İşlem Gücü
 
 | **Yıl** | **Güç (İşlem/Sn)** | **Bilgisayar**  | **Güç (Flop)** | **Açıklama**                                                            |
 | ------- | -----------------: | --------------- | -------------: | ----------------------------------------------------------------------- |
@@ -112,7 +112,8 @@
 | 1 Zettaflop | 1 sekstilyon (10²¹) | Saniyede 1 sekstilyon işlem |
 | 1 Yottaflop |  1 septilyon (10²⁴) | Saniyede 1 septilyon işlem  |
 
-**CPU Tarihçesi:**
+## CPU Tarihçesi
+
 | Yıl  |    Bit | Marka | Model          |
 | ---- | -----: | ----- | -------------- |
 | 1971 |  4-bit | Intel | 4004           |
@@ -126,7 +127,8 @@
 | 2011 | 64-bit | Intel | Core i7        |
 | 2017 | 64-bit | Intel | Core i9 12900K |
 
-**GPU Tarihçesi:**
+## GPU Tarihçesi
+
 | Yıl  | Özellik                              | Marka  | Model       |
 | ---- | ------------------------------------ | ------ | ----------- |
 | 1999 | İlk GPU                              | NVIDIA | GeForce 256 |
@@ -134,7 +136,8 @@
 | 2020 | İlk Veri bilimi için tasarlanmış GPU | NVIDIA | A100        |
 | 2022 | İlk yapay zeka için tasarlanmış GPU  | NVIDIA | H100        |
 
-**Türkiye'de internet:**
+## Türkiye'de internet
+
 | Yıl  | Gelişme                                                   |
 | ---- | --------------------------------------------------------- |
 | 1993 | Türkiye'de internetin ilk kullanımı, ODTÜ, Mustafa Akgül  |
@@ -147,7 +150,7 @@
 | 2010 | Haberleşme'de 3G dönemi                                   |
 | 2016 | Haberleşme'de 4.5G dönemi                                 |
 
-**NoSQL veritabanları:**
+## NoSQL veritabanları
 
 NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekilde saklanmasına olanak tanır. NoSQL veritabanları genellikle belge, anahtar-değer, sütun veya graf yapıları kullanarak veri organizasyonu sağlar. Bu tür veritabanları, veri modellemesi açısından daha fazla esneklik sunar ve genellikle büyük veri ve yüksek performans gerektiren uygulamalar için uygundur.
 
@@ -172,7 +175,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 2020 | MeiliSearch               |
 | 2021 | SingleStore (eski MemSQL) |
 
-**İşletim Sistemler:**
+## İşletim Sistemler
 
 | Yıl  | İşletim Sistemi    |
 | ---- | ------------------ |
@@ -186,7 +189,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 2008 | Android Google     |
 | 2007 | iOS Apple          |
 
-**Fare:**
+## Fare
 
 | Yıl  | Fare              |
 | ---- | ----------------- |
@@ -194,7 +197,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 1991 | ilk kablosuz fare |
 | 1999 | İlk USB fare      |
 
-**Arama Motorları:**
+## Arama Motorları
 
 | Yıl  | Arama Motoru                |
 | ---- | --------------------------- |
@@ -202,7 +205,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 1995 | Yahoo                       |
 | 1998 | Google                      |
 
-**İnternetin Evrimi ve Geleceği:**
+## İnternetin Evrimi ve Geleceği
 
 | Dönem              | Teknolojiler                                              |
 | ------------------ | --------------------------------------------------------- |
@@ -211,7 +214,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | Web 3.0 (Günümüz)  | Blockchain, akıllı sözleşmeler, merkeziyetsiz uygulamalar |
 | Web 4.0 (Gelecek)  | Yapay zeka, IoT, makine öğrenmesi                         |
 
-**Starlink uydu ağı:**
+## Starlink uydu ağı
 
 | Yıl  | Olay                                       | Kümülatif |
 | ---- | ------------------------------------------ | --------: |
@@ -223,7 +226,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 2024 | Starlink, uydu sayısını 5,000’e çıkarmayı  |     5,000 |
 | 2025 | Starlink’in uzun vadeli hedefleri arasında |    7,500+ |
 
-**Satrançta Her Hamleden Sonra İhtimal Sayısı:**
+## Satrançta Her Hamleden Sonra İhtimal Sayısı
 
 | Hamle | Yaklaşık İhtimal Sayısı |
 | ----- | ----------------------: |
@@ -238,7 +241,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 | 9     |        512 milyar hamle |
 | 10    |        10 trilyon hamle |
 
-**Yapay Zeka ve Hızlı Çözümler:**
+## Yapay Zeka ve Hızlı Çözümler
 
 Yapay zeka, satranç oyununda bu kadar çok ihtimali hızlı bir şekilde değerlendirebilme yeteneğine sahiptir. Bu nasıl mümkün olur? İşte açıklaması:
 
@@ -249,7 +252,7 @@ Yapay zeka, satranç oyununda bu kadar çok ihtimali hızlı bir şekilde değer
 
 Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümler sunabilir çünkü büyük miktarda veriyi hızlı bir şekilde işleyebilir ve öğrendiği bilgileri kullanarak en iyi hamleleri seçebilir. Bu sayede, her hamlede en uygun stratejiyi belirleyerek oyunda başarılı sonuçlar elde edebilir.
 
-**Yapay zeka (YZ) eğitimi sırasında kullanılan parametre sayıları:**
+## Yapay zeka (YZ) eğitimi sırasında kullanılan parametre sayıları
 
 | Yıl  | Parametre Sayısı | Model   |
 | ---- | ---------------: | ------- |
@@ -266,7 +269,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 2012'den bugüne kadar, **29 bin** kattan fazla artış.
 
-**1 Milyon Kullanıcıya Ulaşma Süresi:**
+## 1 Milyon Kullanıcıya Ulaşma Süresi
 
 | **Teknoloji/Platform** | **1 Milyon Kullanıcıya** | **Yıl** |
 | ---------------------- | :----------------------: | :-----: |
@@ -285,7 +288,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 | **TikTok**             |           9 Ay           |  2018   |
 | **Facebook**           |          10 Ay           |  2008   |
 
-**100 Milyon Kullanıcıya Ulaşma Süresi:**
+## 100 Milyon Kullanıcıya Ulaşma Süresi
 
 | **Yapay Zeka Modeli** | **100 Milyon Kullanıcıya** | **Yıl** |
 | --------------------- | :------------------------: | :-----: |
@@ -296,7 +299,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 | **OpenAI Codex**      |          1.5 Yıl           |  2022   |
 | **GPT-3.5**           |           1 Yıl            |  2023   |
 
-**Açıklamalar:**
+## Açıklamalar
 
 - **GPT-3**: 2020'de piyasaya sürüldü, 2021'de 100 milyon kullanıcıya ulaştı.
 - **GPT-4**: 2023'te piyasaya sürüldü, 2024'te 100 milyon kullanıcıya ulaştı.
@@ -305,7 +308,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 - **OpenAI Codex**: 2021'de piyasaya sürüldü, 2022'de 100 milyon kullanıcıya ulaştı.
 - **GPT-3.5**: 2022'de piyasaya sürüldü, 2023'te 100 milyon kullanıcıya ulaştı.
 
-**Yapay Zeka İle Değişecek Yaklaşımlar:**
+## Yapay Zeka İle Değişecek Yaklaşımlar
 
 - **1. Yardım ve Müşteri İlişkileri**
   - **Chatbotlar ve Sanal Asistanlar:** YZ tabanlı chatbotlar, müşterilere 7/24 destek sunabilir. Sıkça sorulan sorulara anında yanıt verebilir, müşteri taleplerini toplayabilir ve gerektiğinde insan temsilcilere yönlendirebilir.
@@ -498,7 +501,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
   - **İçerik Üretimi ve Kişiselleştirme:** YZ, oyun dünyalarında dinamik içerik üretimi ve kişiselleştirilmiş oyun deneyimleri sunabilir. Bu, oyuncuların oyunlardan daha fazla keyif almasını sağlar.
   - **Sanal Gerçeklik ve Artırılmış Gerçeklik:** YZ, VR ve AR teknolojilerinde oyun deneyimlerini geliştirmek için kullanılabilir. Bu, oyun dünyalarını daha sürükleyici ve etkileşimli hale getirir.
 
-**Yapay Zekanın ilk olarak kendini göstereceği sektörler:**
+## Yapay Zekanın ilk olarak kendini göstereceği sektörler
 
 - **1. Sağlık Sektörü**
   - **Tanı ve Teşhis:** YZ, görüntüleme ve analiz araçları kullanarak hastalıkları (örneğin, kanser, göz hastalıkları) daha hızlı ve doğru bir şekilde teşhis edebilir.
@@ -533,7 +536,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
   - **Çevresel İzleme:** YZ, hava kirliliği, su kalitesi gibi çevresel faktörleri izler ve analiz eder.
   - **Akıllı Şehirler:** YZ, şehirlerin enerji kullanımını ve kaynak yönetimini optimize eder.
 
-**IoT (Nesnelerin İnterneti) ve yapay zeka (YZ) birlikte kullanıldığında:**
+## IoT (Nesnelerin İnterneti) ve yapay zeka (YZ) birlikte kullanıldığında
 
 | Protokol |                 Toplam Adres Sayısı                  |
 | -------- | :--------------------------------------------------: |
@@ -568,7 +571,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
   - **Akıllı Sınıflar:** IoT cihazları sınıf içindeki çeşitli verileri (örneğin, sıcaklık, hava kalitesi) izlerken, YZ bu verileri analiz ederek öğrenme ortamını optimize eder.
   - **Kişiselleştirilmiş Öğrenme:** IoT cihazları öğrenci performansını izlerken, YZ kişiye özel eğitim materyalleri ve destek sunar.
 
-**Yapay zeka (YZ) ve Hukuk:**
+## Yapay zeka (YZ) ve Hukuk
 
 - **1. Hukuki Araştırma ve Bilgi Erişimi**
   - **Otomatik Araştırma:** YZ, geniş hukuk literatürünü tarayarak, dava ve mevzuat araştırmalarını hızlı ve etkili bir şekilde yapabilir, Örneğin, YZ, belirli hukuki terimlerle ilgili yargı kararlarını ve mevzuatları bulabilir.
@@ -597,7 +600,7 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 ## ÖLÇEK EKONOMİSİ VE YAZILIM
 
-**Ölçek Ekonomisi ve Yazılım Geliştirme Fırsatları:**
+## Ölçek Ekonomisi ve Yazılım Geliştirme Fırsatları
 
 | Yaş Grubu |      Nüfus |
 | --------- | ---------: |
