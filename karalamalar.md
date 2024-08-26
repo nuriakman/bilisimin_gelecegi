@@ -66,75 +66,64 @@
   - Çevre dostu teknolojiler
   - Bilişimin sürdürülebilirliği ve enerji tüketimi
 
-**Bilişim Nedir:**
+**Bilişim Nedir?**
 
-- Bilişim, bilginin toplanması, işlenmesi, saklanması ve iletilmesi süreçlerini kapsayan bir alandır.
-- Bilişim sayesinde veri, bilgiye dönüştürülerek çeşitli alanlarda karar alma süreçlerinde kullanılır ve bu sayede verimlilik artırılır
-
-**Bilgisayar Nedir:**
-
-- Bilgisayar, kullanıcıdan aldığı verileri işleyerek bilgiye dönüştüren, çeşitli görevleri yerine getirebilen elektronik bir cihazdır
-
-**Donanım Nedir:**
-
-- Bilgisayarın fiziksel bileşenleridir
-
-**Yazılım Nedir:**
-
-- Bilgisayarın çalışmasını sağlayan programlardır
-
-**Sistem Yazılımı Nedir:**
-
-- Bilgisayarın donanımını kontrol eden ve diğer yazılımların çalışmasını sağlayan yazılımdır
-
-**Uygulama Yazılımı Nedir:**
-
-- Belirli bir görevi yerine getirmek için tasarlanmış yazılımlardır. Örneğin, Microsoft Office, tarayıcılar, medya oynatıcılar ve oyunlar
-
-**Programlama Dili:**
-
-- Programlama Dili, yazılımların geliştirilmesi için kullanılan, insanlar tarafından anlaşılabilir komutların bilgisayar tarafından yürütülebilir hale getirilmesini sağlayan dillerin genel adıdır
+| **Terim**         | **Tanımı**                                                                                                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bilişim           | Bilginin toplanması, işlenmesi, saklanması ve iletilmesi süreçlerini kapsayan bir alandır.                                                                                                        |
+| Bilgisayar        | Bilgisayar, kullanıcıdan aldığı verileri işleyerek bilgiye dönüştüren, çeşitli görevleri yerine getirebilen elektronik bir cihazdır                                                               |
+| Donanım           | Bilgisayarın fiziksel bileşenleridir                                                                                                                                                              |
+| Yazılım           | Bilgisayarın çalışmasını sağlayan programlardır                                                                                                                                                   |
+| Sistem Yazılımı   | Bilgisayarın donanımını kontrol eden ve diğer yazılımların çalışmasını sağlayan yazılımdır                                                                                                        |
+| Uygulama Yazılımı | Belirli bir görevi yerine getirmek için tasarlanmış yazılımlardır. Örneğin, Microsoft Office, tarayıcılar, medya oynatıcılar ve oyunlar                                                           |
+| Programlama Dili  | Programlama Dili, yazılımların geliştirilmesi için kullanılan, insanlar tarafından anlaşılabilir komutların bilgisayar tarafından yürütülebilir hale getirilmesini sağlayan dillerin genel adıdır |
 
 **Bilgisayar Tarihi:**
 
-- 1947, İlk transistörün icadı
-- 1956, Gerçek anlamda transistörün icadı
-- 1951, İlk ticari bilgisayar
-- 1958, İlk mikroişlemci, intel 4004
-- 1969, ARPANET İlk geniş alan ağı (WAN)
-- 1971, Intel 4004 - İlk mikroişlemci
-- 1981, IBM PC, ilk kişisel bilgisayar
-- 1985, Windows 1.0 Duyuruldu
-- 1990, Tim Berners Lee World Wide Web (WWW)'i tanıttı
-- 1991, Linus Torvalds Linux'u duyurdu
-- 1993, Marc Andreessen Mosaic Web Tarayıcısı
+| **Yıl** | **Etkinlik**                                   |
+| ------- | ---------------------------------------------- |
+| 1947    | İlk transistörün icadı                         |
+| 1956    | Gerçek anlamda transistörün icadı              |
+| 1951    | İlk ticari bilgisayar                          |
+| 1958    | İlk mikroişlemci, intel 4004                   |
+| 1969    | ARPANET İlk geniş alan ağı (WAN)               |
+| 1971    | Intel 4004 - İlk mikroişlemci                  |
+| 1981    | IBM PC, ilk kişisel bilgisayar                 |
+| 1985    | Windows 1.0 Duyuruldu                          |
+| 1990    | Tim Berners Lee World Wide Web (WWW)'i tanıttı |
+| 1991    | Linus Torvalds Linux'u duyurdu                 |
+| 1993    | Marc Andreessen Mosaic Web Tarayıcısı          |
 
 **CPU'lardaki Transistör Adetleri:**
 
-- 1971, ~2,300 Adet Transistör, Intel 4004, İlk mikroişlemci
-- 1972, ~3,500 Adet Transistör, Intel 8008
-- 1974, ~6,000 Adet Transistör, Intel 8080
-- 1978, ~29,000 Adet Transistör, Intel 8086
-- 1982, ~120,000 Adet Transistör, Intel 286
-- 1985, ~275,000 Adet Transistör, Intel 386
-- 1989, ~1,200,000 Adet Transistör, Intel 486
-- 1993, ~3,100,000 Adet Transistör, Intel Pentium
-- 1995, ~5,500,000 Adet Transistör, Intel Pentium Pro
-- 2006, ~291,000,000 Adet Transistör, Intel Core 2 Duo
-- 2011, ~995,000,000 Adet Transistör, Intel Core i7-2600K
-- 2017, ~2,300,000,000 Adet Transistör, Intel Core i9-7980XE
-- 2021, ~19,000,000,000 Adet Transistör, Intel Core i9-12900K
+| **Yıl** | **Transistör Sayısı** | **Mikroişlemci**     | **Açıklama**     |
+| ------- | --------------------- | -------------------- | ---------------- |
+| 1971    | ~2,300 Adet           | Intel 4004           | İlk mikroişlemci |
+| 1972    | ~3,500 Adet           | Intel 8008           |                  |
+| 1974    | ~6,000 Adet           | Intel 8080           |                  |
+| 1978    | ~29,000 Adet          | Intel 8086           |                  |
+| 1982    | ~120,000 Adet         | Intel 286            |                  |
+| 1985    | ~275,000 Adet         | Intel 386            |                  |
+| 1989    | ~1,200,000 Adet       | Intel 486            |                  |
+| 1993    | ~3,100,000 Adet       | Intel Pentium        |                  |
+| 1995    | ~5,500,000 Adet       | Intel Pentium Pro    |                  |
+| 2006    | ~291,000,000 Adet     | Intel Core 2 Duo     |                  |
+| 2011    | ~995,000,000 Adet     | Intel Core i7-2600K  |                  |
+| 2017    | ~2,300,000,000 Adet   | Intel Core i9-7980XE |                  |
+| 2021    | ~19,000,000,000 Adet  | Intel Core i9-12900K |                  |
 
 **Süper Bilgisayarların İşlem Gücü:**
 
-- 1993, 1.6 Trilyon işlem/saniye, CDC 8200, 1.6 Teraflop - İlk büyük "hızlı bilgisayar"lardan biri.
-- 1996, 11.38 Trilyon işlem/saniye, IBM Deep Blue, 11.38 Teraflop - Satrançta dünya şampiyonu Garry Kasparov’u yendi.
-- 2004, 70.72 Trilyon işlem/saniye, IBM Blue Gene/L, 70.72 Teraflop - Bilimsel araştırmalar için çok güçlü.
-- 2008, 1.03 Katrilyon işlem/saniye, IBM Roadrunner, 1.03 Petaflop - İlk "Petaflop" bilgisayar, çok hızlı!
-- 2011, 10.51 Katrilyon işlem/saniye, K Computer, 10.51 Petaflop - Petaflop sınırını geçen ilk bilgisayar.
-- 2018, 122.3 Katrilyon işlem/saniye, Summit, 122.3 Petaflop - En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.
-- 2020, 442 Katrilyon işlem/saniye, Fugaku, 442 Petaflop - Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor.
-- 2021, 1.1 Kentilyon işlem/saniye, Frontier, 1.1 Exaflop - İlk "Exaflop" bilgisayar, saniyede 1 trilyon işlem yapabiliyor.
+| **Yıl** | **Güç (İşlem/Sn)** | **Bilgisayar**  | **Güç (Flop)** | **Açıklama**                                                            |
+| ------- | ------------------ | --------------- | -------------- | ----------------------------------------------------------------------- |
+| 1993    | 1.6 Trilyon        | CDC 8200        | 1.6 Teraflop   | İlk büyük "hızlı bilgisayar"lardan biri.                                |
+| 1996    | 11.38 Trilyon      | IBM Deep Blue   | 11.38 Teraflop | Satrançta dünya şampiyonu Garry Kasparov’u yendi.                       |
+| 2004    | 70.72 Trilyon      | IBM Blue Gene/L | 70.72 Teraflop | Bilimsel araştırmalar için çok güçlü.                                   |
+| 2008    | 1.03 Katrilyon     | IBM Roadrunner  | 1.03 Petaflop  | İlk "Petaflop" bilgisayar, çok hızlı!                                   |
+| 2011    | 10.51 Katrilyon    | K Computer      | 10.51 Petaflop | Petaflop sınırını geçen ilk bilgisayar.                                 |
+| 2018    | 122.3 Katrilyon    | Summit          | 122.3 Petaflop | En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.            |
+| 2020    | 442 Katrilyon      | Fugaku          | 442 Petaflop   | Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor. |
+| 2021    | 1.1 Kentilyon      | Frontier        | 1.1 Exaflop    | İlk "Exaflop" bilgisayar.                                               |
 
 | **Birim**   | **İşlem/Saniye**    | **Açıklama**                |
 | ----------- | ------------------- | --------------------------- |
@@ -147,164 +136,129 @@
 | 1 Yottaflop | 1 septilyon (10²⁴)  | Saniyede 1 septilyon işlem  |
 
 **CPU Tarihçesi:**
-
-- 1971, 4-bit, Intel 4004
-- 1972, 8-bit, Intel 8008
-- 1974, 8-bit, Intel 8080
-- 1978, 16-bit, Intel 8086
-- 1982, 16-bit, Intel 80286
-- 1985, 32-bit, Intel 80386
-- 1993, 32-bit, Intel Pentium
-- 2006, 64-bit, Intel Core 2 Duo
-- 2011, 64-bit, Intel Core i7
-- 2017, 64-bit, Intel Core i9
+| Yıl  | Bit    | Marka | Model      |
+| ---- | ------ | ----- | ---------- |
+| 1971 | 4-bit  | Intel | 4004       |
+| 1972 | 8-bit  | Intel | 8008       |
+| 1974 | 8-bit  | Intel | 8080       |
+| 1978 | 16-bit | Intel | 8086       |
+| 1982 | 16-bit | Intel | 80286      |
+| 1985 | 32-bit | Intel | 80386      |
+| 1993 | 32-bit | Intel | Pentium    |
+| 2006 | 64-bit | Intel | Core 2 Duo |
+| 2011 | 64-bit | Intel | Core i7    |
+| 2017 | 64-bit | Intel | Core i9    |
 
 **GPU Tarihçesi:**
-
-- 1999, İlk GPU
-- 2012, ilk derin öğrenme kullanan GPU
-- 2020, ilk Veri bilimi için tasarlanmış GPU
-- 2022, ilk yapay zeka için tasarlanmış GPU
+| Yıl  | Özellik                              | Marka  | Model       |
+| ---- | ------------------------------------ | ------ | ----------- |
+| 1999 | İlk GPU                              | NVIDIA | GeForce 256 |
+| 2012 | İlk derin öğrenme kullanan GPU       | NVIDIA | Tesla K80   |
+| 2020 | İlk Veri bilimi için tasarlanmış GPU | NVIDIA | A100        |
+| 2022 | İlk yapay zeka için tasarlanmış GPU  | NVIDIA | H100        |
 
 **Türkiye'de internet:**
-
-- 1993, Türkiye'de internetin ilk kullanımı, Orta Doğu Teknik Üniversitesi (ODTÜ)
-- 1994, Kamu ve üniversitelerde internet kullanıma açıldı
-- 1996, Türkiye'de internet hizmetleri, Türk Telekom aracılığıyla ticari olarak sunulmaya başladı
-- 1998, .tr hizmete girdi
-- 2000, Geniş bant internet (ADSL)
-- 2003, e-Devlet Projelerinin Başlangıcı
-- 2008, Fiber İnternet
-- 2010, Haberleşme'de 3G dönemi
-- 2016, Haberleşme'de 4.5G dönemi
-
-**İLK Yazılım Dilleri:**
-
-- 1957, Fortran
-- 1958, LISP
-- 1959, COBOL
-- 1964, Basic
-- 1967, Simula
-- 1970, Pascal
-- 1972, C
-- 1978, SQL
-- 1983, C++
-- 1987, Ada
-
-**SON 10 yılda çıkan yazılım dilleri:**
-
-- 2014, Swift
-- 2015, Kotlin
-- 2016, Elixir
-- 2017, Rust
-- 2018, Julia
-- 2019, Zig
-- 2020, Carbon
-- 2021, Gleam
-- 2022, Mina
-- 2023, Tauri
-
-**Web Developer için Temel Diller:**
-
-- 1991, HTML
-- 1994, PHP
-- 1995, JavaScript
-- 1996, CSS
-- 1999, CSS3
-- 2012, TypeScript
-- 2014, HTML5
-
-**SQL veritabanları:**
-
-SQL (Structured Query Language) veritabanı yönetim sistemleri, verilerin düzenli bir yapıda saklandığı ve yönetildiği sistemlerdir. SQL veritabanları genellikle ilişkisel veritabanları olarak bilinir ve verileri tablolar şeklinde organize eder. SQL veritabanları, veri sorgulama, güncelleme, ekleme ve silme işlemlerini gerçekleştirmek için SQL dilini kullanır.
-
-- 1974, IBM System R
-- 1979, Oracle Database
-- 1986, IBM DB2
-- 1989, Ingres
-- 1990, Microsoft SQL Server
-- 1995, PostgreSQL
-- 1998, MySQL
-- 2003, SQLite
-- 2012, MariaDB
-- 2021, Amazon Aurora
-- 2022, CockroachDB
+| Yıl  | Gelişme                                                                                   |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 1993 | Türkiye'de internetin ilk kullanımı, Orta Doğu Teknik Üniversitesi (ODTÜ)                 |
+| 1994 | Kamu ve üniversitelerde internet kullanıma açıldı                                         |
+| 1996 | Türkiye'de internet hizmetleri, Türk Telekom aracılığıyla ticari olarak sunulmaya başladı |
+| 1998 | .tr hizmete girdi                                                                         |
+| 2000 | Geniş bant internet (ADSL)                                                                |
+| 2003 | e-Devlet Projelerinin Başlangıcı                                                          |
+| 2008 | Fiber İnternet                                                                            |
+| 2010 | Haberleşme'de 3G dönemi                                                                   |
+| 2016 | Haberleşme'de 4.5G dönemi                                                                 |
 
 **NoSQL veritabanları:**
 
 NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekilde saklanmasına olanak tanır. NoSQL veritabanları genellikle belge, anahtar-değer, sütun veya graf yapıları kullanarak veri organizasyonu sağlar. Bu tür veritabanları, veri modellemesi açısından daha fazla esneklik sunar ve genellikle büyük veri ve yüksek performans gerektiren uygulamalar için uygundur.
 
-- 1969, Berkeley DB
-- 1998, Cassandra
-- 2000, MongoDB
-- 2007, Redis
-- 2008, CouchDB
-- 2009, HBase
-- 2010, Riak
-- 2011, Couchbase
-- 2012, Amazon DynamoDB
-- 2013, Aerospike
-- 2014, ArangoDB
-- 2015, OrientDB
-- 2016, FoundationDB
-- 2017, Dgraph
-- 2018, FaunaDB
-- 2019, TigerGraph
-- 2020, MeiliSearch
-- 2021, SingleStore (eski MemSQL)
+| Yıl  | NoSQL Veritabanı          |
+| ---- | ------------------------- |
+| 1969 | Berkeley DB               |
+| 1998 | Cassandra                 |
+| 2000 | MongoDB                   |
+| 2007 | Redis                     |
+| 2008 | CouchDB                   |
+| 2009 | HBase                     |
+| 2010 | Riak                      |
+| 2011 | Couchbase                 |
+| 2012 | Amazon DynamoDB           |
+| 2013 | Aerospike                 |
+| 2014 | ArangoDB                  |
+| 2015 | OrientDB                  |
+| 2016 | FoundationDB              |
+| 2017 | Dgraph                    |
+| 2018 | FaunaDB                   |
+| 2019 | TigerGraph                |
+| 2020 | MeiliSearch               |
+| 2021 | SingleStore (eski MemSQL) |
 
 **İşletim Sistemler:**
 
-- 1969, Unix, Ken Thompson ve Dennis Ritchie
-- 1981, MS-DOS
-- 1984, Mac OS
-- 1985, Windows 1.0
-- 1987, OS/2 IBM
-- 1991, Linux
-- 2008, Android Google
-- 2007, iOS Apple
+| Yıl  | İşletim Sistemi    |
+| ---- | ------------------ |
+| 1969 | Unix, Ken Thompson |
+| 1981 | MS-DOS             |
+| 1984 | Mac OS             |
+| 1985 | Windows 1.0        |
+| 1987 | OS/2 IBM           |
+| 1991 | Linux              |
+| 2008 | Android Google     |
+| 2007 | iOS Apple          |
 
 **Fare:**
 
-- 1981, İlk fare
-- 1991, ilk kablosuz fare
-- 1999, İlk USB fare
+| Yıl  | Fare              |
+| ---- | ----------------- |
+| 1981 | İlk fare          |
+| 1991 | ilk kablosuz fare |
+| 1999 | İlk USB fare      |
 
 **Arama Motorları:**
 
-- 1995, Altavista, ilk arama motoru
-- 1995, Yahoo
-- 1998, Google
+| Yıl  | Arama Motoru   |
+| ---- | -------------- |
+| 1995 | Altavista, ilk |
+| 1995 | Yahoo          |
+| 1998 | Google         |
 
 **İnternetin Evrimi ve Geleceği:**
 
-- **Web 1.0 (1990'lar):** Statik web siteleri. HTML (HyperText Markup Language), ilk web tarayıcıları (Netscape, Internet Explorer) ve FTP (File Transfer Protocol)
-- **Web 2.0 (2000'ler):** Etkileşimli web uygulamaları, sosyal medya ve kullanıcıların içerik üretmesi. JavaScript ve AJAX teknolojileri, sosyal medya platformları (Facebook, Twitter, YouTube)
-- **Web 3.0 (Günümüz):** Blockchain teknolojisi, akıllı sözleşmeler ve merkeziyetsiz uygulamalar (dApps) bu dönemin teknoloji unsurlarıdır.
-- **Web 4.0 (Gelecek):** Yapay zeka, makine öğrenmesi ve IoT (Nesnelerin İnterneti) teknolojileri önemli rol oynayacak.
+| Dönem              | Teknolojiler                                              |
+| ------------------ | --------------------------------------------------------- |
+| Web 1.0 (1990'lar) | Statik web siteleri, HTML, ilk web tarayıcıları           |
+| Web 2.0 (2000'ler) | Etkileşimli web uygulamaları (JS, AJAX), sosyal medya     |
+| Web 3.0 (Günümüz)  | Blockchain, akıllı sözleşmeler, merkeziyetsiz uygulamalar |
+| Web 4.0 (Gelecek)  | Yapay zeka, IoT, makine öğrenmesi                         |
 
 **Starlink uydu ağı:**
 
-- 2019, İlk uydu fırlatmaları yapıldı ve toplamda 60 uydu uzaya gönderildi
-- 2020, Ticari hizmetin başlamasıyla toplam uydu sayısı 120’ye ulaştı
-- 2021, Starlink, düzenli uydu fırlatmalarıyla uydu sayısını önemli ölçüde artırdı
-- 2022, Daha geniş bir kapsama alanı sağlamak için uydu sayısı 3,300’e çıkarıldı
-- 2023, İnternet hızlarını artırmak ve hizmet kapsamını genişletmek amacıyla uydu sayısı 4,500’e ulaştı
-- 2024, Starlink, uydu sayısını 5,000’e çıkarmayı hedefliyor, global kapsama genişletiliyor
-- 2025 ve sonrası, Starlink’in uzun vadeli hedefleri arasında uydu sayısını 7,000’e çıkarmak ve internet hizmetini daha da geliştirmek bulunuyor
+| Yıl  | Olay                                       |
+| ---- | ------------------------------------------ |
+| 2019 | İlk uydu fırlatmaları yapıldı              |
+| 2020 | Ticari hizmetin başlamasıyla 120’ye ulaştı |
+| 2021 | Starlink, düzenli uydu fırlatmalarıyla     |
+| 2022 | Daha geniş bir kapsama alanı sağlamak      |
+| 2023 | İnternet hızlarını artırmak ve hizmet      |
+| 2024 | Starlink, uydu sayısını 5,000’e çıkarmayı  |
+| 2025 | Starlink’in uzun vadeli hedefleri arasında |
 
 **Satrançta Her Hamleden Sonra İhtimal Sayısı:**
 
-- Hamle 1, Yaklaşık 20 hamle
-- Hamle 2, Yaklaşık 400 hamle
-- Hamle 3, Yaklaşık 8,000 hamle
-- Hamle 4, Yaklaşık 160,000 hamle
-- Hamle 5, Yaklaşık 3.2 milyon hamle
-- Hamle 6, Yaklaşık 64 milyon hamle
-- Hamle 7, Yaklaşık 1.28 milyar hamle
-- Hamle 8, Yaklaşık 25.6 milyar hamle
-- Hamle 9, Yaklaşık 512 milyar hamle
-- Hamle 10, Yaklaşık 10 trilyon hamle
+| Hamle | İhtimal Sayısı             |
+| ----- | -------------------------- |
+| 1     | Yaklaşık 20 hamle          |
+| 2     | Yaklaşık 400 hamle         |
+| 3     | Yaklaşık 8,000 hamle       |
+| 4     | Yaklaşık 160,000 hamle     |
+| 5     | Yaklaşık 3.2 milyon hamle  |
+| 6     | Yaklaşık 64 milyon hamle   |
+| 7     | Yaklaşık 1.28 milyar hamle |
+| 8     | Yaklaşık 25.6 milyar hamle |
+| 9     | Yaklaşık 512 milyar hamle  |
+| 10    | Yaklaşık 10 trilyon hamle  |
 
 **Yapay Zeka ve Hızlı Çözümler:**
 
@@ -319,15 +273,20 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 **Yapay zeka (YZ) eğitimi sırasında kullanılan parametre sayıları:**
 
-- 2012, yaklaşık 60 milyon, AlexNet
-- 2014, yaklaşık 138 milyon, VGGNet
-- 2015, yaklaşık 25.6 milyon, ResNet
-- 2018, yaklaşık 110 milyon, BERT
-- 2019, yaklaşık 1.5 milyar, GPT-2
-- 2020, yaklaşık 175 milyar, GPT-3
-- 2021, yaklaşık 1.2 trilyon, GLaM
-- 2022, yaklaşık 540 milyar, PaLM
-- 2023, yaklaşık 1 trilyon+, GPT-4
+| Yıl  | Parametre Sayısı | Model   |
+| ---- | ---------------- | ------- |
+| 2012 | ~60 milyon       | AlexNet |
+| 2014 | ~138 milyon      | VGGNet  |
+| 2015 | ~25.6 milyon     | ResNet  |
+| 2018 | ~110 milyon      | BERT    |
+| 2019 | ~1.5 milyar      | GPT-2   |
+| 2020 | ~175 milyar      | GPT-3   |
+| 2021 | ~1.2 trilyon     | GLaM    |
+| 2022 | ~540 milyar      | PaLM    |
+| 2023 | ~1 trilyon+      | GPT-4   |
+| 2024 | ~1.75 trilyon    | GPT-4o  |
+
+- 2012'den bugüne kadar, **29 bin** kattan fazla artış.
 
 **Yapay Zeka İle Değişecek Yaklaşımlar:**
 
@@ -559,8 +518,10 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 **IoT (Nesnelerin İnterneti) ve yapay zeka (YZ) birlikte kullanıldığında:**
 
-- IPv4 Toplam Adres Sayısı: 2^32 = 4,294,967,296 (yaklaşık 4.3 milyar adres)
-- IPv6 Toplam Adres Sayısı: 2^128 ≈ 3.4 x 10^38 (yaklaşık 340 undecilyon adres)
+| Protokol | Toplam Adres Sayısı                                  |
+| -------- | ---------------------------------------------------- |
+| IPv4     | 2^32 = 4,294,967,296 (yaklaşık 4.3 milyar adres)     |
+| IPv6     | 2^128 ≈ 3.4 x 10^38  (yaklaşık 340 undecilyon adres) |
 
 - 1. Sağlık Sektörü
   - **Akıllı Sağlık İzleme:** IoT cihazları, hastaların sağlık verilerini sürekli izlerken, YZ bu verileri analiz ederek sağlık durumlarını tahmin edebilir ve erken uyarılar sağlayabilir.
