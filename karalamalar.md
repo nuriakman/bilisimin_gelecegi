@@ -96,57 +96,57 @@
 **CPU'lardaki Transistör Adetleri:**
 
 | **Yıl** | **Transistör Sayısı** | **Mikroişlemci**     | **Açıklama**     |
-| ------- | --------------------- | -------------------- | ---------------- |
-| 1971    | ~2,300 Adet           | Intel 4004           | İlk mikroişlemci |
-| 1972    | ~3,500 Adet           | Intel 8008           |                  |
-| 1974    | ~6,000 Adet           | Intel 8080           |                  |
-| 1978    | ~29,000 Adet          | Intel 8086           |                  |
-| 1982    | ~120,000 Adet         | Intel 286            |                  |
-| 1985    | ~275,000 Adet         | Intel 386            |                  |
-| 1989    | ~1,200,000 Adet       | Intel 486            |                  |
-| 1993    | ~3,100,000 Adet       | Intel Pentium        |                  |
-| 1995    | ~5,500,000 Adet       | Intel Pentium Pro    |                  |
-| 2006    | ~291,000,000 Adet     | Intel Core 2 Duo     |                  |
-| 2011    | ~995,000,000 Adet     | Intel Core i7-2600K  |                  |
-| 2017    | ~2,300,000,000 Adet   | Intel Core i9-7980XE |                  |
-| 2021    | ~19,000,000,000 Adet  | Intel Core i9-12900K |                  |
+| ------- | --------------------: | -------------------- | ---------------- |
+| 1971    |           ~2,300 Adet | Intel 4004           | İlk mikroişlemci |
+| 1972    |           ~3,500 Adet | Intel 8008           |                  |
+| 1974    |           ~6,000 Adet | Intel 8080           |                  |
+| 1978    |          ~29,000 Adet | Intel 8086           |                  |
+| 1982    |         ~120,000 Adet | Intel 286            |                  |
+| 1985    |         ~275,000 Adet | Intel 386            |                  |
+| 1989    |       ~1,200,000 Adet | Intel 486            |                  |
+| 1993    |       ~3,100,000 Adet | Intel Pentium        |                  |
+| 1995    |       ~5,500,000 Adet | Intel Pentium Pro    |                  |
+| 2006    |     ~291,000,000 Adet | Intel Core 2 Duo     |                  |
+| 2011    |     ~995,000,000 Adet | Intel Core i7-2600K  |                  |
+| 2017    |   ~2,300,000,000 Adet | Intel Core i9-7980XE |                  |
+| 2021    |  ~19,000,000,000 Adet | Intel Core i9-12900K |                  |
 
 **Süper Bilgisayarların İşlem Gücü:**
 
 | **Yıl** | **Güç (İşlem/Sn)** | **Bilgisayar**  | **Güç (Flop)** | **Açıklama**                                                            |
-| ------- | ------------------ | --------------- | -------------- | ----------------------------------------------------------------------- |
-| 1993    | 1.6 Trilyon        | CDC 8200        | 1.6 Teraflop   | İlk büyük "hızlı bilgisayar"lardan biri.                                |
-| 1996    | 11.38 Trilyon      | IBM Deep Blue   | 11.38 Teraflop | Satrançta dünya şampiyonu Garry Kasparov’u yendi.                       |
-| 2004    | 70.72 Trilyon      | IBM Blue Gene/L | 70.72 Teraflop | Bilimsel araştırmalar için çok güçlü.                                   |
-| 2008    | 1.03 Katrilyon     | IBM Roadrunner  | 1.03 Petaflop  | İlk "Petaflop" bilgisayar, çok hızlı!                                   |
-| 2011    | 10.51 Katrilyon    | K Computer      | 10.51 Petaflop | Petaflop sınırını geçen ilk bilgisayar.                                 |
-| 2018    | 122.3 Katrilyon    | Summit          | 122.3 Petaflop | En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.            |
-| 2020    | 442 Katrilyon      | Fugaku          | 442 Petaflop   | Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor. |
-| 2021    | 1.1 Kentilyon      | Frontier        | 1.1 Exaflop    | İlk "Exaflop" bilgisayar.                                               |
+| ------- | -----------------: | --------------- | -------------: | ----------------------------------------------------------------------- |
+| 1993    |        1.6 Trilyon | CDC 8200        |   1.6 Teraflop | İlk büyük "hızlı bilgisayar"lardan biri.                                |
+| 1996    |      11.38 Trilyon | IBM Deep Blue   | 11.38 Teraflop | Satrançta dünya şampiyonu Garry Kasparov’u yendi.                       |
+| 2004    |      70.72 Trilyon | IBM Blue Gene/L | 70.72 Teraflop | Bilimsel araştırmalar için çok güçlü.                                   |
+| 2008    |     1.03 Katrilyon | IBM Roadrunner  |  1.03 Petaflop | İlk "Petaflop" bilgisayar, çok hızlı!                                   |
+| 2011    |    10.51 Katrilyon | K Computer      | 10.51 Petaflop | Petaflop sınırını geçen ilk bilgisayar.                                 |
+| 2018    |    122.3 Katrilyon | Summit          | 122.3 Petaflop | En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.            |
+| 2020    |      442 Katrilyon | Fugaku          |   442 Petaflop | Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor. |
+| 2021    |      1.1 Kentilyon | Frontier        |    1.1 Exaflop | İlk "Exaflop" bilgisayar.                                               |
 
-| **Birim**   | **İşlem/Saniye**    | **Açıklama**                |
-| ----------- | ------------------- | --------------------------- |
-| 1 Megaflop  | 1 milyon (10⁶)      | Saniyede 1 milyon işlem     |
-| 1 Gigaflop  | 1 milyar (10⁹)      | Saniyede 1 milyar işlem     |
-| 1 Teraflop  | 1 trilyon (10¹²)    | Saniyede 1 trilyon işlem    |
-| 1 Petaflop  | 1 katrilyon (10¹⁵)  | Saniyede 1 katrilyon işlem  |
-| 1 Exaflop   | 1 kentilyon (10¹⁸)  | Saniyede 1 kentilyon işlem  |
+| **Birim**   |    **İşlem/Saniye** | **Açıklama**                |
+| ----------- | ------------------: | --------------------------- |
+| 1 Megaflop  |      1 milyon (10⁶) | Saniyede 1 milyon işlem     |
+| 1 Gigaflop  |      1 milyar (10⁹) | Saniyede 1 milyar işlem     |
+| 1 Teraflop  |    1 trilyon (10¹²) | Saniyede 1 trilyon işlem    |
+| 1 Petaflop  |  1 katrilyon (10¹⁵) | Saniyede 1 katrilyon işlem  |
+| 1 Exaflop   |  1 kentilyon (10¹⁸) | Saniyede 1 kentilyon işlem  |
 | 1 Zettaflop | 1 sekstilyon (10²¹) | Saniyede 1 sekstilyon işlem |
-| 1 Yottaflop | 1 septilyon (10²⁴)  | Saniyede 1 septilyon işlem  |
+| 1 Yottaflop |  1 septilyon (10²⁴) | Saniyede 1 septilyon işlem  |
 
 **CPU Tarihçesi:**
-| Yıl  | Bit    | Marka | Model      |
-| ---- | ------ | ----- | ---------- |
-| 1971 | 4-bit  | Intel | 4004       |
-| 1972 | 8-bit  | Intel | 8008       |
-| 1974 | 8-bit  | Intel | 8080       |
-| 1978 | 16-bit | Intel | 8086       |
-| 1982 | 16-bit | Intel | 80286      |
-| 1985 | 32-bit | Intel | 80386      |
-| 1993 | 32-bit | Intel | Pentium    |
-| 2006 | 64-bit | Intel | Core 2 Duo |
-| 2011 | 64-bit | Intel | Core i7    |
-| 2017 | 64-bit | Intel | Core i9    |
+| Yıl  |    Bit | Marka | Model          |
+| ---- | -----: | ----- | -------------- |
+| 1971 |  4-bit | Intel | 4004           |
+| 1972 |  8-bit | Intel | 8008           |
+| 1974 |  8-bit | Intel | 8080           |
+| 1978 | 16-bit | Intel | 8086           |
+| 1982 | 16-bit | Intel | 80286          |
+| 1985 | 32-bit | Intel | 80386          |
+| 1993 | 32-bit | Intel | Pentium        |
+| 2006 | 64-bit | Intel | Core 2 Duo     |
+| 2011 | 64-bit | Intel | Core i7        |
+| 2017 | 64-bit | Intel | Core i9 12900K |
 
 **GPU Tarihçesi:**
 | Yıl  | Özellik                              | Marka  | Model       |
@@ -234,30 +234,30 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 
 **Starlink uydu ağı:**
 
-| Yıl  | Olay                                       |
-| ---- | ------------------------------------------ |
-| 2019 | İlk uydu fırlatmaları yapıldı              |
-| 2020 | Ticari hizmetin başlamasıyla 120’ye ulaştı |
-| 2021 | Starlink, düzenli uydu fırlatmalarıyla     |
-| 2022 | Daha geniş bir kapsama alanı sağlamak      |
-| 2023 | İnternet hızlarını artırmak ve hizmet      |
-| 2024 | Starlink, uydu sayısını 5,000’e çıkarmayı  |
-| 2025 | Starlink’in uzun vadeli hedefleri arasında |
+| Yıl  | Olay                                       | Kümülatif |
+| ---- | ------------------------------------------ | --------: |
+| 2019 | İlk uydu fırlatmaları yapıldı              |        60 |
+| 2020 | Ticari hizmetin başlamasıyla 120’ye ulaştı |     1,000 |
+| 2021 | Starlink, düzenli uydu fırlatmalarıyla     |     1,500 |
+| 2022 | Daha geniş bir kapsama alanı sağlamak      |     2,000 |
+| 2023 | İnternet hızlarını artırmak ve hizmet      |     3,000 |
+| 2024 | Starlink, uydu sayısını 5,000’e çıkarmayı  |     5,000 |
+| 2025 | Starlink’in uzun vadeli hedefleri arasında |    7,500+ |
 
 **Satrançta Her Hamleden Sonra İhtimal Sayısı:**
 
-| Hamle | İhtimal Sayısı             |
-| ----- | -------------------------- |
-| 1     | Yaklaşık 20 hamle          |
-| 2     | Yaklaşık 400 hamle         |
-| 3     | Yaklaşık 8,000 hamle       |
-| 4     | Yaklaşık 160,000 hamle     |
-| 5     | Yaklaşık 3.2 milyon hamle  |
-| 6     | Yaklaşık 64 milyon hamle   |
-| 7     | Yaklaşık 1.28 milyar hamle |
-| 8     | Yaklaşık 25.6 milyar hamle |
-| 9     | Yaklaşık 512 milyar hamle  |
-| 10    | Yaklaşık 10 trilyon hamle  |
+| Hamle | Yaklaşık İhtimal Sayısı |
+| ----- | ----------------------: |
+| 1     |                20 hamle |
+| 2     |               400 hamle |
+| 3     |             8,000 hamle |
+| 4     |           160,000 hamle |
+| 5     |        3.2 milyon hamle |
+| 6     |         64 milyon hamle |
+| 7     |       1.28 milyar hamle |
+| 8     |       25.6 milyar hamle |
+| 9     |        512 milyar hamle |
+| 10    |        10 trilyon hamle |
 
 **Yapay Zeka ve Hızlı Çözümler:**
 
@@ -273,49 +273,49 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 **Yapay zeka (YZ) eğitimi sırasında kullanılan parametre sayıları:**
 
 | Yıl  | Parametre Sayısı | Model   |
-| ---- | ---------------- | ------- |
-| 2012 | ~60 milyon       | AlexNet |
-| 2014 | ~138 milyon      | VGGNet  |
-| 2015 | ~25.6 milyon     | ResNet  |
-| 2018 | ~110 milyon      | BERT    |
-| 2019 | ~1.5 milyar      | GPT-2   |
-| 2020 | ~175 milyar      | GPT-3   |
-| 2021 | ~1.2 trilyon     | GLaM    |
-| 2022 | ~540 milyar      | PaLM    |
-| 2023 | ~1 trilyon+      | GPT-4   |
-| 2024 | ~1.75 trilyon    | GPT-4o  |
+| ---- | ---------------: | ------- |
+| 2012 |       ~60 milyon | AlexNet |
+| 2014 |      ~138 milyon | VGGNet  |
+| 2015 |     ~25.6 milyon | ResNet  |
+| 2018 |      ~110 milyon | BERT    |
+| 2019 |      ~1.5 milyar | GPT-2   |
+| 2020 |      ~175 milyar | GPT-3   |
+| 2021 |     ~1.2 trilyon | GLaM    |
+| 2022 |      ~540 milyar | PaLM    |
+| 2023 |      ~1 trilyon+ | GPT-4   |
+| 2024 |    ~1.75 trilyon | GPT-4o  |
 
 2012'den bugüne kadar, **29 bin** kattan fazla artış.
 
 **1 Milyon Kullanıcıya Ulaşma Süresi:**
 
 | **Teknoloji/Platform** | **1 Milyon Kullanıcıya** | **Yıl** |
-| ---------------------- | ------------------------ | ------- |
-| **Televizyon**         | 12 Yıl                   | 1955    |
-| **Araba**              | 12 Yıl                   | 1910    |
-| **Netflix**            | 7 Yıl                    | 2011    |
-| **Radyo**              | 6 Yıl                    | 1927    |
-| **WhatsApp**           | 4 Yıl                    | 2013    |
-| **MS-DOS**             | 3 Yıl                    | 1985    |
-| **Twitter**            | 2 Yıl                    | 2010    |
-| **Skype**              | 1 Yıl                    | 2005    |
-| **Google Chrome**      | 1 Yıl                    | 2010    |
-| **Windows 95**         | 1 Yıl                    | 1995    |
-| **YouTube**            | 1.5 Yıl                  | 2007    |
-| **Instagram**          | 2.5 Yıl                  | 2014    |
-| **TikTok**             | 9 Ay                     | 2018    |
-| **Facebook**           | 10 Ay                    | 2008    |
+| ---------------------- | :----------------------: | :-----: |
+| **Televizyon**         |          12 Yıl          |  1955   |
+| **Araba**              |          12 Yıl          |  1910   |
+| **Netflix**            |          7 Yıl           |  2011   |
+| **Radyo**              |          6 Yıl           |  1927   |
+| **WhatsApp**           |          4 Yıl           |  2013   |
+| **MS-DOS**             |          3 Yıl           |  1985   |
+| **Twitter**            |          2 Yıl           |  2010   |
+| **Skype**              |          1 Yıl           |  2005   |
+| **Google Chrome**      |          1 Yıl           |  2010   |
+| **Windows 95**         |          1 Yıl           |  1995   |
+| **YouTube**            |         1.5 Yıl          |  2007   |
+| **Instagram**          |         2.5 Yıl          |  2014   |
+| **TikTok**             |           9 Ay           |  2018   |
+| **Facebook**           |          10 Ay           |  2008   |
 
 **100 Milyon Kullanıcıya Ulaşma Süresi:**
 
 | **Yapay Zeka Modeli** | **100 Milyon Kullanıcıya** | **Yıl** |
-| --------------------- | -------------------------- | ------- |
-| **GPT-3**             | 1.5 Yıl                    | 2021    |
-| **GPT-4**             | 1.5 Yıl                    | 2024    |
-| **GPT-2**             | 2.5 Yıl                    | 2021    |
-| **BERT**              | 2 Yıl                      | 2020    |
-| **OpenAI Codex**      | 1.5 Yıl                    | 2022    |
-| **GPT-3.5**           | 1 Yıl                      | 2023    |
+| --------------------- | :------------------------: | :-----: |
+| **GPT-3**             |          1.5 Yıl           |  2021   |
+| **GPT-4**             |          1.5 Yıl           |  2024   |
+| **GPT-2**             |          2.5 Yıl           |  2021   |
+| **BERT**              |           2 Yıl            |  2020   |
+| **OpenAI Codex**      |          1.5 Yıl           |  2022   |
+| **GPT-3.5**           |           1 Yıl            |  2023   |
 
 **Açıklamalar:**
 
@@ -556,9 +556,9 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 **IoT (Nesnelerin İnterneti) ve yapay zeka (YZ) birlikte kullanıldığında:**
 
-| Protokol | Toplam Adres Sayısı                                  |
-| -------- | ---------------------------------------------------- |
-| IPv4     | 2^32 = 4.29 x 10^9 (yaklaşık 4.3 milyar adres)       |
+| Protokol |                 Toplam Adres Sayısı                  |
+| -------- | :--------------------------------------------------: |
+| IPv4     |    2^32 = 4.29 x 10^9 (yaklaşık 4.3 milyar adres)    |
 | IPv6     | 2^128 = 3.40 x 10^38 (yaklaşık 340 undecilyon adres) |
 
 - 1. Sağlık Sektörü
@@ -618,13 +618,16 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 **Ölçek Ekonomisi ve Yazılım Geliştirme Fırsatları:**
 
-| Yaş Grubu | Nüfus      |
-| --------- | ---------- |
-| 0-14      | 64 Milyon  |
+| Yaş Grubu |      Nüfus |
+| --------- | ---------: |
+| 0-14      |  64 Milyon |
 | 15-64     | 220 Milyon |
-| 65-99     | 48 Milyon  |
+| 65-99     |  48 Milyon |
 
-15-64 yaş grubu arasında sadece %1 nufusun beğeneceği bir oyun uygulaması, 1$ tutarında aylık abonelikle her ay **2.2 Milyon Dolar gelir** anlamına gelir.
+- Hedef kitle 15-64 yaş grubu olsun
+- Bu kitlenin sadece %1'i satın alsın
+- Uygulamanın aylık aboneliği 1$ olsun
+- Her ay **2.200.000 (2.2 Milyon)$ aylık gelir** anlamına gelir.
 
 - **1. Eğitim Yazılımları ve Online Eğitim Platformları:**
   - **Ölçek:** Dünya genelinde yaklaşık 1.5 milyar öğrenci var.
