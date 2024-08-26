@@ -85,7 +85,6 @@
 | 1947    | İlk transistörün icadı                         |
 | 1956    | Gerçek anlamda transistörün icadı              |
 | 1951    | İlk ticari bilgisayar                          |
-| 1958    | İlk mikroişlemci, intel 4004                   |
 | 1969    | ARPANET İlk geniş alan ağı (WAN)               |
 | 1971    | Intel 4004 - İlk mikroişlemci                  |
 | 1981    | IBM PC, ilk kişisel bilgisayar                 |
@@ -218,11 +217,11 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 
 **Arama Motorları:**
 
-| Yıl  | Arama Motoru   |
-| ---- | -------------- |
-| 1995 | Altavista, ilk |
-| 1995 | Yahoo          |
-| 1998 | Google         |
+| Yıl  | Arama Motoru                |
+| ---- | --------------------------- |
+| 1995 | Altavista, ilk arama motoru |
+| 1995 | Yahoo                       |
+| 1998 | Google                      |
 
 **İnternetin Evrimi ve Geleceği:**
 
@@ -286,7 +285,46 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 | 2023 | ~1 trilyon+      | GPT-4   |
 | 2024 | ~1.75 trilyon    | GPT-4o  |
 
-- 2012'den bugüne kadar, **29 bin** kattan fazla artış.
+2012'den bugüne kadar, **29 bin** kattan fazla artış.
+
+**1 Milyon Kullanıcıya Ulaşma Süresi:**
+
+| **Teknoloji/Platform** | **1 Milyon Kullanıcıya** | **Yıl** |
+| ---------------------- | ------------------------ | ------- |
+| **Televizyon**         | 12 Yıl                   | 1955    |
+| **Araba**              | 12 Yıl                   | 1910    |
+| **Netflix**            | 7 Yıl                    | 2011    |
+| **Radyo**              | 6 Yıl                    | 1927    |
+| **WhatsApp**           | 4 Yıl                    | 2013    |
+| **MS-DOS**             | 3 Yıl                    | 1985    |
+| **Twitter**            | 2 Yıl                    | 2010    |
+| **Skype**              | 1 Yıl                    | 2005    |
+| **Google Chrome**      | 1 Yıl                    | 2010    |
+| **Windows 95**         | 1 Yıl                    | 1995    |
+| **YouTube**            | 1.5 Yıl                  | 2007    |
+| **Instagram**          | 2.5 Yıl                  | 2014    |
+| **TikTok**             | 9 Ay                     | 2018    |
+| **Facebook**           | 10 Ay                    | 2008    |
+
+**100 Milyon Kullanıcıya Ulaşma Süresi:**
+
+| **Yapay Zeka Modeli** | **100 Milyon Kullanıcıya** | **Yıl** |
+| --------------------- | -------------------------- | ------- |
+| **GPT-3**             | 1.5 Yıl                    | 2021    |
+| **GPT-4**             | 1.5 Yıl                    | 2024    |
+| **GPT-2**             | 2.5 Yıl                    | 2021    |
+| **BERT**              | 2 Yıl                      | 2020    |
+| **OpenAI Codex**      | 1.5 Yıl                    | 2022    |
+| **GPT-3.5**           | 1 Yıl                      | 2023    |
+
+**Açıklamalar:**
+
+- **GPT-3**: 2020'de piyasaya sürüldü, 2021'de 100 milyon kullanıcıya ulaştı.
+- **GPT-4**: 2023'te piyasaya sürüldü, 2024'te 100 milyon kullanıcıya ulaştı.
+- **GPT-2**: 2019'da piyasaya sürüldü, 2021'de 100 milyon kullanıcıya ulaştı.
+- **BERT**: 2018'de piyasaya sürüldü, 2020'de 100 milyon kullanıcıya ulaştı.
+- **OpenAI Codex**: 2021'de piyasaya sürüldü, 2022'de 100 milyon kullanıcıya ulaştı.
+- **GPT-3.5**: 2022'de piyasaya sürüldü, 2023'te 100 milyon kullanıcıya ulaştı.
 
 **Yapay Zeka İle Değişecek Yaklaşımlar:**
 
@@ -520,8 +558,8 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 | Protokol | Toplam Adres Sayısı                                  |
 | -------- | ---------------------------------------------------- |
-| IPv4     | 2^32 = 4,294,967,296 (yaklaşık 4.3 milyar adres)     |
-| IPv6     | 2^128 ≈ 3.4 x 10^38  (yaklaşık 340 undecilyon adres) |
+| IPv4     | 2^32 = 4.29 x 10^9 (yaklaşık 4.3 milyar adres)       |
+| IPv6     | 2^128 = 3.40 x 10^38 (yaklaşık 340 undecilyon adres) |
 
 - 1. Sağlık Sektörü
   - **Akıllı Sağlık İzleme:** IoT cihazları, hastaların sağlık verilerini sürekli izlerken, YZ bu verileri analiz ederek sağlık durumlarını tahmin edebilir ve erken uyarılar sağlayabilir.
@@ -580,12 +618,13 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 
 **Ölçek Ekonomisi ve Yazılım Geliştirme Fırsatları:**
 
-- ABD Nufusu 333 Milyon kişi
-- 0–14 yaş, 64 Milyon Kişi
-- 15–64 yaş, 220 Milyon Kişi
-- 65-99 yaş, 48 Milyon Kişi
+| Yaş Grubu | Nüfus      |
+| --------- | ---------- |
+| 0-14      | 64 Milyon  |
+| 15-64     | 220 Milyon |
+| 65-99     | 48 Milyon  |
 
-15-64 yaş grubu arasında sadece %1 nufusun beğeneceği bir oyun uygulaması, 1$ tutarında aylık abonelikle her ay 2.2 Milyon Dolar gelir anlamına gelir.
+15-64 yaş grubu arasında sadece %1 nufusun beğeneceği bir oyun uygulaması, 1$ tutarında aylık abonelikle her ay **2.2 Milyon Dolar gelir** anlamına gelir.
 
 - **1. Eğitim Yazılımları ve Online Eğitim Platformları:**
   - **Ölçek:** Dünya genelinde yaklaşık 1.5 milyar öğrenci var.
