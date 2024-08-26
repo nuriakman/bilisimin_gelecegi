@@ -631,6 +631,8 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
   - **Hukuk Eğitimi:** YZ, hukuk öğrencileri ve profesyoneller için eğitim materyallerini kişiselleştirebilir, simülasyonlar ve interaktif öğrenme araçları sağlayabilir.
   - **Bilgi Güncellemeleri:** YZ, hukuk alanındaki yenilikleri takip edebilir ve hukuk profesyonellerine güncel bilgiler sağlayabilir.
 
+## ÖLÇEK EKONOMİSİ VE YAZILIM
+
 **Ölçek Ekonomisi ve Yazılım Geliştirme Fırsatları:**
 
 | Yaş Grubu |      Nüfus |
@@ -643,6 +645,8 @@ Yapay zeka, satranç gibi karmaşık oyunlarda çok hızlı ve doğru çözümle
 - Bu kitlenin sadece %1'i satın alsın
 - Uygulamanın aylık aboneliği 1$ olsun
 - Her ay **2.200.000 (2.2 Milyon)$ aylık gelir** anlamına gelir.
+
+## ÖLÇEK EKONOMİSİ FIRSATLARI
 
 - **1. Eğitim Yazılımları ve Online Eğitim Platformları:**
   - **Ölçek:** Dünya genelinde yaklaşık 1.5 milyar öğrenci var.
