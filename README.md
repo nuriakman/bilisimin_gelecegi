@@ -1,2 +1,3 @@
-# bilisimin_gelecegi
+# Bilişimin Geleceği
+
 Bilişimin Gelecekteki Yeri
