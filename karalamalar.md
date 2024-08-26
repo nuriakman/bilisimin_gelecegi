@@ -1,6 +1,7 @@
 # Bilişimin Gelecekteki Yeri
 
 **Hakkımızda:**
+
 - 1988'den beri yazımı geliştiriyorum
 - Full-stack çalışanım. Web Developer olarak çalışıyorum
 - Hayatboyu öğrenme, öğrendiğim diller: basic, cobol, pascal, dbase, clipper, foxpro, visual foxpro, access, asp, php, python, c++, JavaScript, nodeJS
@@ -105,8 +106,8 @@
 - 1981, IBM PC, ilk kişisel bilgisayar
 - 1985, Windows 1.0 Duyuruldu
 - 1990, Tim Berners Lee World Wide Web (WWW)'i tanıttı
-- 1993, Marc Andreessen Mosaic Web Tarayıcısı
 - 1991, Linus Torvalds Linux'u duyurdu
+- 1993, Marc Andreessen Mosaic Web Tarayıcısı
 
 **CPU'lardaki Transistör Adetleri:**
 
@@ -129,11 +130,21 @@
 - 1993, 1.6 Trilyon işlem/saniye, CDC 8200, 1.6 Teraflop - İlk büyük "hızlı bilgisayar"lardan biri.
 - 1996, 11.38 Trilyon işlem/saniye, IBM Deep Blue, 11.38 Teraflop - Satrançta dünya şampiyonu Garry Kasparov’u yendi.
 - 2004, 70.72 Trilyon işlem/saniye, IBM Blue Gene/L, 70.72 Teraflop - Bilimsel araştırmalar için çok güçlü.
-- 2008, 1.03 Quadrilyon işlem/saniye, IBM Roadrunner, 1.03 Petaflop - İlk "Petaflop" bilgisayar, çok hızlı!
-- 2011, 10.51 Quadrilyon işlem/saniye, K Computer, 10.51 Petaflop - Petaflop sınırını geçen ilk bilgisayar.
-- 2018, 122.3 Quadrilyon işlem/saniye, Summit, 122.3 Petaflop - En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.
-- 2020, 442 Quadrilyon işlem/saniye, Fugaku, 442 Petaflop - Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor.
-- 2021, 1.1 Trilyon işlem/saniye, Frontier, 1.1 Exaflop - İlk "Exaflop" bilgisayar, saniyede 1 trilyon işlem yapabiliyor.
+- 2008, 1.03 Katrilyon işlem/saniye, IBM Roadrunner, 1.03 Petaflop - İlk "Petaflop" bilgisayar, çok hızlı!
+- 2011, 10.51 Katrilyon işlem/saniye, K Computer, 10.51 Petaflop - Petaflop sınırını geçen ilk bilgisayar.
+- 2018, 122.3 Katrilyon işlem/saniye, Summit, 122.3 Petaflop - En hızlı bilgisayar, sağlık ve enerji araştırmaları yapıyor.
+- 2020, 442 Katrilyon işlem/saniye, Fugaku, 442 Petaflop - Japonya'nın en hızlı bilgisayarı, büyük hesaplamalar için kullanılıyor.
+- 2021, 1.1 Kentilyon işlem/saniye, Frontier, 1.1 Exaflop - İlk "Exaflop" bilgisayar, saniyede 1 trilyon işlem yapabiliyor.
+
+| **Birim**   | **İşlem/Saniye**    | **Açıklama**                |
+| ----------- | ------------------- | --------------------------- |
+| 1 Megaflop  | 1 milyon (10⁶)      | Saniyede 1 milyon işlem     |
+| 1 Gigaflop  | 1 milyar (10⁹)      | Saniyede 1 milyar işlem     |
+| 1 Teraflop  | 1 trilyon (10¹²)    | Saniyede 1 trilyon işlem    |
+| 1 Petaflop  | 1 katrilyon (10¹⁵)  | Saniyede 1 katrilyon işlem  |
+| 1 Exaflop   | 1 kentilyon (10¹⁸)  | Saniyede 1 kentilyon işlem  |
+| 1 Zettaflop | 1 sekstilyon (10²¹) | Saniyede 1 sekstilyon işlem |
+| 1 Yottaflop | 1 septilyon (10²⁴)  | Saniyede 1 septilyon işlem  |
 
 **CPU Tarihçesi:**
 
