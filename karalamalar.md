@@ -66,7 +66,7 @@
   - Çevre dostu teknolojiler
   - Bilişimin sürdürülebilirliği ve enerji tüketimi
 
-**Bilişim Nedir?**
+**Bilişim Konusunda Bazı Terimler:**
 
 | **Terim**         | **Tanımı**                                                                                                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,33 +83,47 @@
 | **Yıl** | **Etkinlik**                                   |
 | ------- | ---------------------------------------------- |
 | 1947    | İlk transistörün icadı                         |
-| 1956    | Gerçek anlamda transistörün icadı              |
 | 1951    | İlk ticari bilgisayar                          |
+| 1956    | Gerçek anlamda transistörün icadı              |
 | 1969    | ARPANET İlk geniş alan ağı (WAN)               |
 | 1971    | Intel 4004 - İlk mikroişlemci                  |
 | 1981    | IBM PC, ilk kişisel bilgisayar                 |
+| 1983    | Apple Lisa - İlk kişisel bilgisayar            |
 | 1985    | Windows 1.0 Duyuruldu                          |
 | 1990    | Tim Berners Lee World Wide Web (WWW)'i tanıttı |
 | 1991    | Linus Torvalds Linux'u duyurdu                 |
 | 1993    | Marc Andreessen Mosaic Web Tarayıcısı          |
 
+**Web Tarayıcıları Tarihi:**
+
+| **Yıl** | **Tarayıcı**                       | **Açıklama**                                                                           |
+| ------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
+| 1990    | **WorldWideWeb** (Tim Berners-Lee) | İlk web tarayıcısı ve editörü olarak geliştirilmiştir.                                 |
+| 1993    | **Mosaic** (Marc Andreessen)       | İlk popüler grafik tabanlı web tarayıcısıdır.                                          |
+| 1994    | **Netscape Navigator**             | Mosaic'in devamı olarak geliştirilen ilk ticari tarayıcı.                              |
+| 1995    | **Internet Explorer**              | Microsoft tarafından geliştirilen ve Windows ile birlikte sunulan tarayıcı.            |
+| 1998    | **Opera**                          | Hızlı ve küçük bir tarayıcı olarak geliştirildi.                                       |
+| 2002    | **Mozilla Firefox**                | Mozilla Suite'den ayrılan ve bağımsız olarak geliştirilmiş açık kaynak kodlu tarayıcı. |
+| 2008    | **Google Chrome**                  | Google tarafından geliştirilen ve hızlı performansıyla dikkat çeken tarayıcı.          |
+| 2015    | **Microsoft Edge**                 | Internet Explorer'ın yerini alan ve Windows 10 ile birlikte sunulan tarayıcı.          |
+
 **CPU'lardaki Transistör Adetleri:**
 
-| **Yıl** | **Transistör Sayısı** | **Mikroişlemci**     | **Açıklama**     |
-| ------- | --------------------: | -------------------- | ---------------- |
-| 1971    |           ~2,300 Adet | Intel 4004           | İlk mikroişlemci |
-| 1972    |           ~3,500 Adet | Intel 8008           |                  |
-| 1974    |           ~6,000 Adet | Intel 8080           |                  |
-| 1978    |          ~29,000 Adet | Intel 8086           |                  |
-| 1982    |         ~120,000 Adet | Intel 286            |                  |
-| 1985    |         ~275,000 Adet | Intel 386            |                  |
-| 1989    |       ~1,200,000 Adet | Intel 486            |                  |
-| 1993    |       ~3,100,000 Adet | Intel Pentium        |                  |
-| 1995    |       ~5,500,000 Adet | Intel Pentium Pro    |                  |
-| 2006    |     ~291,000,000 Adet | Intel Core 2 Duo     |                  |
-| 2011    |     ~995,000,000 Adet | Intel Core i7-2600K  |                  |
-| 2017    |   ~2,300,000,000 Adet | Intel Core i9-7980XE |                  |
-| 2021    |  ~19,000,000,000 Adet | Intel Core i9-12900K |                  |
+| **Yıl** | **Transistör Sayısı** | **Mikroişlemci**              |
+| ------- | --------------------: | ----------------------------- |
+| 1971    |           ~2,300 Adet | Intel 4004 - İlk mikroişlemci |
+| 1972    |           ~3,500 Adet | Intel 8008                    |
+| 1974    |           ~6,000 Adet | Intel 8080                    |
+| 1978    |          ~29,000 Adet | Intel 8086                    |
+| 1982    |         ~120,000 Adet | Intel 286                     |
+| 1985    |         ~275,000 Adet | Intel 386                     |
+| 1989    |       ~1,200,000 Adet | Intel 486                     |
+| 1993    |       ~3,100,000 Adet | Intel Pentium                 |
+| 1995    |       ~5,500,000 Adet | Intel Pentium Pro             |
+| 2006    |     ~291,000,000 Adet | Intel Core 2 Duo              |
+| 2011    |     ~995,000,000 Adet | Intel Core i7-2600K           |
+| 2017    |   ~2,300,000,000 Adet | Intel Core i9-7980XE          |
+| 2021    |  ~19,000,000,000 Adet | Intel Core i9-12900K          |
 
 **Süper Bilgisayarların İşlem Gücü:**
 
@@ -157,17 +171,17 @@
 | 2022 | İlk yapay zeka için tasarlanmış GPU  | NVIDIA | H100        |
 
 **Türkiye'de internet:**
-| Yıl  | Gelişme                                                                                   |
-| ---- | ----------------------------------------------------------------------------------------- |
-| 1993 | Türkiye'de internetin ilk kullanımı, Orta Doğu Teknik Üniversitesi (ODTÜ)                 |
-| 1994 | Kamu ve üniversitelerde internet kullanıma açıldı                                         |
-| 1996 | Türkiye'de internet hizmetleri, Türk Telekom aracılığıyla ticari olarak sunulmaya başladı |
-| 1998 | .tr hizmete girdi                                                                         |
-| 2000 | Geniş bant internet (ADSL)                                                                |
-| 2003 | e-Devlet Projelerinin Başlangıcı                                                          |
-| 2008 | Fiber İnternet                                                                            |
-| 2010 | Haberleşme'de 3G dönemi                                                                   |
-| 2016 | Haberleşme'de 4.5G dönemi                                                                 |
+| Yıl  | Gelişme                                                   |
+| ---- | --------------------------------------------------------- |
+| 1993 | Türkiye'de internetin ilk kullanımı, ODTÜ, Mustafa Akgül  |
+| 1994 | Kamu ve üniversitelerde internet kullanıma açıldı         |
+| 1996 | Türkiye'de internet hizmetleri, Türk Telekom aracılığıyla |
+| 1998 | .tr hizmete girdi                                         |
+| 2000 | Geniş bant internet (ADSL)                                |
+| 2003 | e-Devlet Projelerinin Başlangıcı                          |
+| 2008 | Fiber İnternet                                            |
+| 2010 | Haberleşme'de 3G dönemi                                   |
+| 2016 | Haberleşme'de 4.5G dönemi                                 |
 
 **NoSQL veritabanları:**
 
@@ -198,6 +212,7 @@ NoSQL (Not Only SQL) veritabanları, verilerin daha esnek ve dinamik bir şekild
 
 | Yıl  | İşletim Sistemi    |
 | ---- | ------------------ |
+| 1956 | IBM OS/360         |
 | 1969 | Unix, Ken Thompson |
 | 1981 | MS-DOS             |
 | 1984 | Mac OS             |
