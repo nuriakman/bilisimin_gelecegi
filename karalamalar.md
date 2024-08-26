@@ -1,10 +1,5 @@
 # Bilişimin Gelecekteki Yeri
 
-**Hakkımızda:**
-
-- 1988'den beri yazımı geliştiriyorum
-- Full-stack çalışanım. Web Developer olarak çalışıyorum
-- Hayatboyu öğrenme, öğrendiğim diller: basic, cobol, pascal, dbase, clipper, foxpro, visual foxpro, access, asp, php, python, c++, JavaScript, nodeJS
 
 **Bilişimin gelecekteki yeri:**
 
